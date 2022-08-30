@@ -1,4 +1,4 @@
-# Data Science
+# Yandex.Praktikum Data Science Projects
 
 ### В этом репозитории собраны проекты, выполненные в ходе прохождения курса "Специалист по Data Science" Яндекс.Практикума
 
