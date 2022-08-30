@@ -31,7 +31,7 @@
 
 Библиотеки: `Pandas, Sklearn`
 
-### 6. Обучение с учителем: [Отток клиентов банка](https://github.com/davidbalya/0_test_30_08/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2006.%20%D0%9E%D1%82%D1%82%D0%BE%D0%BA%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.ipynb
+### 6. Обучение с учителем: [Отток клиентов банка](https://github.com/davidbalya/0_test_30_08/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2006.%20%D0%9E%D1%82%D1%82%D0%BE%D0%BA%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.ipynb)
 Задача: На основании исторических данных оттока клиентов банка. Необходимо построить модель прогнозирования.
 
 Библиотеки: `Pandas, Matplotlib, Sklearn, NumPy`
